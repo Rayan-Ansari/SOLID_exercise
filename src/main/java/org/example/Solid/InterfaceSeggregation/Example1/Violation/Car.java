@@ -1,4 +1,4 @@
-package org.example.InterfaceSeggregation.Example1.Violation;
+package org.example.Solid.InterfaceSeggregation.Example1.Violation;
 
 class Car implements Switches {
     private boolean radioOn;

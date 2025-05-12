@@ -1,4 +1,4 @@
-package org.example.DependencyInversion.Example2.Violation;
+package org.example.Solid.DependencyInversion.Example2.Violation;
 public class WeatherTracker {
     public String currentConditions;
     Phone phone;

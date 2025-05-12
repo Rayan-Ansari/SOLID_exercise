@@ -1,4 +1,4 @@
-package org.example.DependencyInversion.Example1.Violation;
+package org.example.Solid.DependencyInversion.Example1.Violation;
 
 class Driver {
     private RacingCar racingCar;

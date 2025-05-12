@@ -1,4 +1,4 @@
-package org.example.InterfaceSeggregation.Example2.Violation;
+package org.example.Solid.InterfaceSeggregation.Example2.Violation;
 
 public class Penguin implements Bird {
     public String currentLocation;

@@ -1,4 +1,4 @@
-package org.example.Refactoring.Example1.Violation;
+package org.example.Challenge.Example1.Violation;
 
 import com.google.api.client.http.GenericUrl;
 import com.google.api.client.http.HttpRequest;
@@ -13,6 +13,9 @@ import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * This is a more challenging exercise. Use SOLID principle to refactor the code.
+ */
 public class Forecast {
     public String predict(String city, LocalDate datetime, boolean wind) throws IOException {
         // When date is not provided we look for the current prediction

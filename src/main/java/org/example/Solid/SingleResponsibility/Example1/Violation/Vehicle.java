@@ -1,4 +1,4 @@
-package org.example.SingleResponsibility.Example1.Violation;
+package org.example.Solid.SingleResponsibility.Example1.Violation;
 
 class Vehicle {
     private final int maxFuel;

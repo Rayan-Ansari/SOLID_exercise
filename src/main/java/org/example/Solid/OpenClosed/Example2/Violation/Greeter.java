@@ -1,4 +1,4 @@
-package org.example.OpenClosed.Example2.Violation;
+package org.example.Solid.OpenClosed.Example2.Violation;
 
 public class Greeter {
     String formality;

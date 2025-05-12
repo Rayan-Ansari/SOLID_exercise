@@ -1,4 +1,4 @@
-package org.example.SingleResponsibility.Example2.Violation;
+package org.example.Solid.SingleResponsibility.Example2.Violation;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package org.example.OpenClosed.Example1.Violation;
+package org.example.Solid.OpenClosed.Example1.Violation;
 
 class EventHandler {
 

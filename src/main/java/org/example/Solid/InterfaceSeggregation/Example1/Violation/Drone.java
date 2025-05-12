@@ -1,4 +1,4 @@
-package org.example.InterfaceSeggregation.Example1.Violation;
+package org.example.Solid.InterfaceSeggregation.Example1.Violation;
 
 class Drone implements Switches {
     private boolean cameraOn;
